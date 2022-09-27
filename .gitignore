@@ -1,0 +1,6 @@
+node_modules
+.env
+secret.json
+public
+yarn.lock
+# client
